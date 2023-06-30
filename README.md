@@ -7,7 +7,7 @@ OH Coding
 
 메인코드는 main.dart 일걸요
 
-대부분은 수제작이지만 transition 아니 Textanimation 은 Flutter galary에서 참고하였습니다.
+대부분은 수제작이지만 transition과 Textanimation 은 Flutter galary에서 참고하였습니다.
 
 이번 개발에서는 최적화에 신경을 써뵜습니다.
 
